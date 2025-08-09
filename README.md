@@ -57,15 +57,6 @@ Using .append(), .insert(), .extend(), .pop(), .sort(), and .index() methods
 
 Writing clean, readable Python code
 
----
-
-If you use this README, your GitHub repo will look professional and easy to understand.
 
 
 
-
-
-
-
-
-Ask ChatGPT
